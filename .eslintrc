@@ -1,0 +1,10 @@
+{
+  "extends": "airbnb/base",
+  "ecmaFeatures": {
+    "experimentalObjectRestSpread": true
+  },
+  "env": {
+    "mocha": true,
+    "es6": true
+  }
+}
